@@ -10,10 +10,10 @@ The Selage Solar Farm project is under development on the Northern Cheyenne Rese
 
 Project:
 
-2 MW+ ground-mounted solar photovoltaic generation
-Approximately 4 MWh battery energy storage.
+2 MW+ ground-mounted solar photovoltaic generation.
+Approximately, 4 MWh battery energy storage.
 
-Project currently under development
+Project currently under development,
 Not yet operational.
 
 Partnerships & Funding:
@@ -31,7 +31,8 @@ Once operational, Selage Solar Farm, LLC is committed to providing 1% of total p
 Leadership & Ownership:
 
 Tyree Kilo Selage,  
-Founder & Owner.
+Founder & Managing Member. 
+
 Jordan Shane Redger,
 Director of Operations.
 
